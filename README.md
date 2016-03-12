@@ -1,2 +1,2 @@
-Git Remotes and Github Codealong
+Git Remotes & Github Codealong
 
